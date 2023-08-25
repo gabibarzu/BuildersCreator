@@ -1,0 +1,6 @@
+DataType,Name
+Guid,EmployeeId
+string,SubcontractNumber
+DateTime,SubcontractStartDate
+DateTime,SubcontractEndDate
+string,Imported
